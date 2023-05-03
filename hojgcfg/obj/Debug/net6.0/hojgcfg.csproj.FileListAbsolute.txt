@@ -1,0 +1,183 @@
+D:\ALLCODES\ALLCODES\hojgcfg\hojgcfg\bin\Debug\net6.0\appsettings.Development.json
+D:\ALLCODES\ALLCODES\hojgcfg\hojgcfg\bin\Debug\net6.0\appsettings.json
+D:\ALLCODES\ALLCODES\hojgcfg\hojgcfg\bin\Debug\net6.0\hojgcfg.exe
+D:\ALLCODES\ALLCODES\hojgcfg\hojgcfg\bin\Debug\net6.0\hojgcfg.deps.json
+D:\ALLCODES\ALLCODES\hojgcfg\hojgcfg\bin\Debug\net6.0\hojgcfg.runtimeconfig.json
+D:\ALLCODES\ALLCODES\hojgcfg\hojgcfg\bin\Debug\net6.0\hojgcfg.dll
+D:\ALLCODES\ALLCODES\hojgcfg\hojgcfg\bin\Debug\net6.0\hojgcfg.pdb
+D:\ALLCODES\ALLCODES\hojgcfg\hojgcfg\bin\Debug\net6.0\Azure.Core.dll
+D:\ALLCODES\ALLCODES\hojgcfg\hojgcfg\bin\Debug\net6.0\Azure.Identity.dll
+D:\ALLCODES\ALLCODES\hojgcfg\hojgcfg\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ALLCODES\ALLCODES\hojgcfg\hojgcfg\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\ALLCODES\ALLCODES\hojgcfg\hojgcfg\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\ALLCODES\ALLCODES\hojgcfg\hojgcfg\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ALLCODES\ALLCODES\hojgcfg\hojgcfg\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ALLCODES\ALLCODES\hojgcfg\hojgcfg\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ALLCODES\ALLCODES\hojgcfg\hojgcfg\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\ALLCODES\ALLCODES\hojgcfg\hojgcfg\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\ALLCODES\ALLCODES\hojgcfg\hojgcfg\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ALLCODES\ALLCODES\hojgcfg\hojgcfg\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\ALLCODES\ALLCODES\hojgcfg\hojgcfg\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ALLCODES\ALLCODES\hojgcfg\hojgcfg\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\ALLCODES\ALLCODES\hojgcfg\hojgcfg\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ALLCODES\ALLCODES\hojgcfg\hojgcfg\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\ALLCODES\ALLCODES\hojgcfg\hojgcfg\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\ALLCODES\ALLCODES\hojgcfg\hojgcfg\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\ALLCODES\ALLCODES\hojgcfg\hojgcfg\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\ALLCODES\ALLCODES\hojgcfg\hojgcfg\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\ALLCODES\ALLCODES\hojgcfg\hojgcfg\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ALLCODES\ALLCODES\hojgcfg\hojgcfg\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\ALLCODES\ALLCODES\hojgcfg\hojgcfg\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\ALLCODES\ALLCODES\hojgcfg\hojgcfg\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ALLCODES\ALLCODES\hojgcfg\hojgcfg\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\ALLCODES\ALLCODES\hojgcfg\hojgcfg\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\ALLCODES\ALLCODES\hojgcfg\hojgcfg\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\ALLCODES\ALLCODES\hojgcfg\hojgcfg\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\ALLCODES\ALLCODES\hojgcfg\hojgcfg\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\ALLCODES\ALLCODES\hojgcfg\hojgcfg\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ALLCODES\ALLCODES\hojgcfg\hojgcfg\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ALLCODES\ALLCODES\hojgcfg\hojgcfg\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\ALLCODES\ALLCODES\hojgcfg\hojgcfg\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\ALLCODES\ALLCODES\hojgcfg\hojgcfg\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ALLCODES\ALLCODES\hojgcfg\hojgcfg\bin\Debug\net6.0\System.Memory.Data.dll
+D:\ALLCODES\ALLCODES\hojgcfg\hojgcfg\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\ALLCODES\ALLCODES\hojgcfg\hojgcfg\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\ALLCODES\ALLCODES\hojgcfg\hojgcfg\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\ALLCODES\ALLCODES\hojgcfg\hojgcfg\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\ALLCODES\ALLCODES\hojgcfg\hojgcfg\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ALLCODES\ALLCODES\hojgcfg\hojgcfg\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ALLCODES\ALLCODES\hojgcfg\hojgcfg\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ALLCODES\ALLCODES\hojgcfg\hojgcfg\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ALLCODES\ALLCODES\hojgcfg\hojgcfg\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ALLCODES\ALLCODES\hojgcfg\hojgcfg\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ALLCODES\ALLCODES\hojgcfg\hojgcfg\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\ALLCODES\ALLCODES\hojgcfg\hojgcfg\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ALLCODES\ALLCODES\hojgcfg\hojgcfg\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ALLCODES\ALLCODES\hojgcfg\hojgcfg\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\ALLCODES\ALLCODES\hojgcfg\hojgcfg\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\ALLCODES\ALLCODES\hojgcfg\hojgcfg\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\ALLCODES\ALLCODES\hojgcfg\hojgcfg\obj\Debug\net6.0\hojgcfg.csproj.AssemblyReference.cache
+D:\ALLCODES\ALLCODES\hojgcfg\hojgcfg\obj\Debug\net6.0\hojgcfg.GeneratedMSBuildEditorConfig.editorconfig
+D:\ALLCODES\ALLCODES\hojgcfg\hojgcfg\obj\Debug\net6.0\hojgcfg.AssemblyInfoInputs.cache
+D:\ALLCODES\ALLCODES\hojgcfg\hojgcfg\obj\Debug\net6.0\hojgcfg.AssemblyInfo.cs
+D:\ALLCODES\ALLCODES\hojgcfg\hojgcfg\obj\Debug\net6.0\hojgcfg.csproj.CoreCompileInputs.cache
+D:\ALLCODES\ALLCODES\hojgcfg\hojgcfg\obj\Debug\net6.0\hojgcfg.MvcApplicationPartsAssemblyInfo.cs
+D:\ALLCODES\ALLCODES\hojgcfg\hojgcfg\obj\Debug\net6.0\hojgcfg.MvcApplicationPartsAssemblyInfo.cache
+D:\ALLCODES\ALLCODES\hojgcfg\hojgcfg\obj\Debug\net6.0\staticwebassets.build.json
+D:\ALLCODES\ALLCODES\hojgcfg\hojgcfg\obj\Debug\net6.0\staticwebassets.development.json
+D:\ALLCODES\ALLCODES\hojgcfg\hojgcfg\obj\Debug\net6.0\scopedcss\bundle\hojgcfg.styles.css
+D:\ALLCODES\ALLCODES\hojgcfg\hojgcfg\obj\Debug\net6.0\hojgcfg.csproj.CopyComplete
+D:\ALLCODES\ALLCODES\hojgcfg\hojgcfg\obj\Debug\net6.0\hojgcfg.dll
+D:\ALLCODES\ALLCODES\hojgcfg\hojgcfg\obj\Debug\net6.0\refint\hojgcfg.dll
+D:\ALLCODES\ALLCODES\hojgcfg\hojgcfg\obj\Debug\net6.0\hojgcfg.pdb
+D:\ALLCODES\ALLCODES\hojgcfg\hojgcfg\obj\Debug\net6.0\hojgcfg.genruntimeconfig.cache
+D:\ALLCODES\ALLCODES\hojgcfg\hojgcfg\obj\Debug\net6.0\ref\hojgcfg.dll
+D:\ALLCODES\ALLCODES\hojgcfg\hojgcfg\bin\Debug\net6.0\Humanizer.dll
+D:\ALLCODES\ALLCODES\hojgcfg\hojgcfg\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ALLCODES\ALLCODES\hojgcfg\hojgcfg\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\ALLCODES\ALLCODES\hojgcfg\hojgcfg\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\ALLCODES\ALLCODES\hojgcfg\hojgcfg\bin\Debug\net6.0\System.CodeDom.dll
+D:\ALLCODES\ALLCODES\hojgcfg\hojgcfg\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\ALLCODES\ALLCODES\hojgcfg\hojgcfg\bin\Debug\net6.0\System.Text.Json.dll
+D:\ALLCODES\ALLCODES\hojgcfg\hojgcfg\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\All Codes\hojgcfg\hojgcfg\bin\Debug\net6.0\appsettings.Development.json
+D:\All Codes\hojgcfg\hojgcfg\bin\Debug\net6.0\appsettings.json
+D:\All Codes\hojgcfg\hojgcfg\bin\Debug\net6.0\hojgcfg.exe
+D:\All Codes\hojgcfg\hojgcfg\bin\Debug\net6.0\hojgcfg.deps.json
+D:\All Codes\hojgcfg\hojgcfg\bin\Debug\net6.0\hojgcfg.runtimeconfig.json
+D:\All Codes\hojgcfg\hojgcfg\bin\Debug\net6.0\hojgcfg.dll
+D:\All Codes\hojgcfg\hojgcfg\bin\Debug\net6.0\hojgcfg.pdb
+D:\All Codes\hojgcfg\hojgcfg\bin\Debug\net6.0\Azure.Core.dll
+D:\All Codes\hojgcfg\hojgcfg\bin\Debug\net6.0\Azure.Identity.dll
+D:\All Codes\hojgcfg\hojgcfg\bin\Debug\net6.0\Humanizer.dll
+D:\All Codes\hojgcfg\hojgcfg\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\All Codes\hojgcfg\hojgcfg\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\All Codes\hojgcfg\hojgcfg\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\All Codes\hojgcfg\hojgcfg\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\All Codes\hojgcfg\hojgcfg\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\All Codes\hojgcfg\hojgcfg\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\All Codes\hojgcfg\hojgcfg\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\All Codes\hojgcfg\hojgcfg\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\All Codes\hojgcfg\hojgcfg\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\All Codes\hojgcfg\hojgcfg\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\All Codes\hojgcfg\hojgcfg\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\All Codes\hojgcfg\hojgcfg\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\All Codes\hojgcfg\hojgcfg\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\All Codes\hojgcfg\hojgcfg\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\All Codes\hojgcfg\hojgcfg\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\All Codes\hojgcfg\hojgcfg\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\All Codes\hojgcfg\hojgcfg\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\All Codes\hojgcfg\hojgcfg\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\All Codes\hojgcfg\hojgcfg\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\All Codes\hojgcfg\hojgcfg\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\All Codes\hojgcfg\hojgcfg\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\All Codes\hojgcfg\hojgcfg\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\All Codes\hojgcfg\hojgcfg\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\All Codes\hojgcfg\hojgcfg\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\All Codes\hojgcfg\hojgcfg\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\All Codes\hojgcfg\hojgcfg\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\All Codes\hojgcfg\hojgcfg\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\All Codes\hojgcfg\hojgcfg\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\All Codes\hojgcfg\hojgcfg\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\All Codes\hojgcfg\hojgcfg\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\All Codes\hojgcfg\hojgcfg\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\All Codes\hojgcfg\hojgcfg\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\All Codes\hojgcfg\hojgcfg\bin\Debug\net6.0\System.CodeDom.dll
+D:\All Codes\hojgcfg\hojgcfg\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\All Codes\hojgcfg\hojgcfg\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\All Codes\hojgcfg\hojgcfg\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\All Codes\hojgcfg\hojgcfg\bin\Debug\net6.0\System.Memory.Data.dll
+D:\All Codes\hojgcfg\hojgcfg\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\All Codes\hojgcfg\hojgcfg\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\All Codes\hojgcfg\hojgcfg\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\All Codes\hojgcfg\hojgcfg\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\All Codes\hojgcfg\hojgcfg\bin\Debug\net6.0\System.Text.Json.dll
+D:\All Codes\hojgcfg\hojgcfg\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\All Codes\hojgcfg\hojgcfg\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\All Codes\hojgcfg\hojgcfg\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\All Codes\hojgcfg\hojgcfg\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\All Codes\hojgcfg\hojgcfg\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\All Codes\hojgcfg\hojgcfg\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\All Codes\hojgcfg\hojgcfg\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\All Codes\hojgcfg\hojgcfg\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\All Codes\hojgcfg\hojgcfg\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\All Codes\hojgcfg\hojgcfg\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\All Codes\hojgcfg\hojgcfg\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\All Codes\hojgcfg\hojgcfg\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\All Codes\hojgcfg\hojgcfg\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\All Codes\hojgcfg\hojgcfg\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\All Codes\hojgcfg\hojgcfg\obj\Debug\net6.0\hojgcfg.csproj.AssemblyReference.cache
+D:\All Codes\hojgcfg\hojgcfg\obj\Debug\net6.0\hojgcfg.GeneratedMSBuildEditorConfig.editorconfig
+D:\All Codes\hojgcfg\hojgcfg\obj\Debug\net6.0\hojgcfg.AssemblyInfoInputs.cache
+D:\All Codes\hojgcfg\hojgcfg\obj\Debug\net6.0\hojgcfg.AssemblyInfo.cs
+D:\All Codes\hojgcfg\hojgcfg\obj\Debug\net6.0\hojgcfg.csproj.CoreCompileInputs.cache
+D:\All Codes\hojgcfg\hojgcfg\obj\Debug\net6.0\hojgcfg.MvcApplicationPartsAssemblyInfo.cs
+D:\All Codes\hojgcfg\hojgcfg\obj\Debug\net6.0\hojgcfg.MvcApplicationPartsAssemblyInfo.cache
+D:\All Codes\hojgcfg\hojgcfg\obj\Debug\net6.0\staticwebassets.build.json
+D:\All Codes\hojgcfg\hojgcfg\obj\Debug\net6.0\staticwebassets.development.json
+D:\All Codes\hojgcfg\hojgcfg\obj\Debug\net6.0\scopedcss\bundle\hojgcfg.styles.css
+D:\All Codes\hojgcfg\hojgcfg\obj\Debug\net6.0\hojgcfg.csproj.CopyComplete
+D:\All Codes\hojgcfg\hojgcfg\obj\Debug\net6.0\hojgcfg.dll
+D:\All Codes\hojgcfg\hojgcfg\obj\Debug\net6.0\refint\hojgcfg.dll
+D:\All Codes\hojgcfg\hojgcfg\obj\Debug\net6.0\hojgcfg.pdb
+D:\All Codes\hojgcfg\hojgcfg\obj\Debug\net6.0\hojgcfg.genruntimeconfig.cache
+D:\All Codes\hojgcfg\hojgcfg\obj\Debug\net6.0\ref\hojgcfg.dll
+D:\All Codes\hojgcfg\hojgcfg\bin\Debug\net6.0\Hangfire.AspNetCore.dll
+D:\All Codes\hojgcfg\hojgcfg\bin\Debug\net6.0\Hangfire.Core.dll
+D:\All Codes\hojgcfg\hojgcfg\bin\Debug\net6.0\Hangfire.NetCore.dll
+D:\All Codes\hojgcfg\hojgcfg\bin\Debug\net6.0\Hangfire.SqlServer.dll
+D:\All Codes\hojgcfg\hojgcfg\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\All Codes\hojgcfg\hojgcfg\bin\Debug\net6.0\ca\Hangfire.Core.resources.dll
+D:\All Codes\hojgcfg\hojgcfg\bin\Debug\net6.0\de\Hangfire.Core.resources.dll
+D:\All Codes\hojgcfg\hojgcfg\bin\Debug\net6.0\es\Hangfire.Core.resources.dll
+D:\All Codes\hojgcfg\hojgcfg\bin\Debug\net6.0\fa\Hangfire.Core.resources.dll
+D:\All Codes\hojgcfg\hojgcfg\bin\Debug\net6.0\fr\Hangfire.Core.resources.dll
+D:\All Codes\hojgcfg\hojgcfg\bin\Debug\net6.0\nb\Hangfire.Core.resources.dll
+D:\All Codes\hojgcfg\hojgcfg\bin\Debug\net6.0\nl\Hangfire.Core.resources.dll
+D:\All Codes\hojgcfg\hojgcfg\bin\Debug\net6.0\pt-BR\Hangfire.Core.resources.dll
+D:\All Codes\hojgcfg\hojgcfg\bin\Debug\net6.0\pt-PT\Hangfire.Core.resources.dll
+D:\All Codes\hojgcfg\hojgcfg\bin\Debug\net6.0\pt\Hangfire.Core.resources.dll
+D:\All Codes\hojgcfg\hojgcfg\bin\Debug\net6.0\sv\Hangfire.Core.resources.dll
+D:\All Codes\hojgcfg\hojgcfg\bin\Debug\net6.0\tr-TR\Hangfire.Core.resources.dll
+D:\All Codes\hojgcfg\hojgcfg\bin\Debug\net6.0\zh-TW\Hangfire.Core.resources.dll
+D:\All Codes\hojgcfg\hojgcfg\bin\Debug\net6.0\zh\Hangfire.Core.resources.dll
